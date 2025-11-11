@@ -1,0 +1,26 @@
+.chart-container {
+  background-color: #fff;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+  margin-bottom: 24px;
+}
+
+.chart-heading {
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.chart-wrapper {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.no-data-msg {
+  text-align: center;
+  color: #888;
+  font-size: 15px;
+}
